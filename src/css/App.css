@@ -58,4 +58,10 @@
 
 .label-spaceing {
   margin-left: 5px;
+  height: 100px;
+  width: 200px;
+}
+
+.no-new-line {
+  display: inline;
 }
