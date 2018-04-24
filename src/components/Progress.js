@@ -42,26 +42,26 @@ class Progress extends Component {
       <div>
         <div className="center-content">
           <h3 className="no-new-line">
-            <Label bsStyle="primary">Section 1</Label>
+            <Label bsStyle="primary">Windows</Label>
           </h3>
           <h3 className="no-new-line">
             <Label bsStyle="success" className="label-spaceing">
-              Section 2
+              Redfalcon
             </Label>
           </h3>
           <h3 className="no-new-line">
             <Label bsStyle="warning" className="label-spaceing">
-              Section 3
+              Cookie
             </Label>
           </h3>
           <h3 className="no-new-line">
             <Label bsStyle="danger" className="label-spaceing">
-              Section 4
+              Android
             </Label>
           </h3>
           <h3 className="no-new-line">
             <Label bsStyle="info" className="label-spaceing">
-              Section 5
+              Bonus
             </Label>
           </h3>
         </div>;
